@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BC24-49F6
+
+ Directory of C:\Users\admin\Desktop\myproject
+
+26-12-2022  18:18    <DIR>          .
+26-12-2022  18:18    <DIR>          ..
+26-12-2022  17:27                21 index.html
+26-12-2022  18:00               362 test.txt
+26-12-2022  17:53               443 test11.html
+26-12-2022  18:18                 0 tey.txt
+               4 File(s)            826 bytes
+               2 Dir(s)  63,139,893,248 bytes free
